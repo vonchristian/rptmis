@@ -11,4 +11,6 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require gentelella
+//= require gentelella-custom
 //= require_tree .
